@@ -1,5 +1,9 @@
 <?php
-
+/* Author: Ramona Graham
+ *IT 328 Web Frameworks
+ *Instructor Ken Hang
+ *Wtr Qtr 2016
+ */
 
 ?>
 
